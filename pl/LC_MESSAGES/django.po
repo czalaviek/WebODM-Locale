@@ -1806,7 +1806,7 @@ msgstr "Przestrzeń do przechowywania"
 #: coreplugins/diagnostic/templates/diagnostic.html:45
 msgctxt "Megabytes of storage space"
 msgid "Free"
-msgstr "Darmowe"
+msgstr "Wolne"
 
 #: coreplugins/diagnostic/templates/diagnostic.html:15
 #: coreplugins/diagnostic/templates/diagnostic.html:39
